@@ -1,6 +1,2 @@
-{
-"Switch": true,
-"Show": true,
-"Html": "http://www.6699805.com/test.html"
-}
+"{\"soeNote\":\"AB\U7ebf\U7535\U538b\U9ad8\U8d85\U6807\Uff0c\U5f53\U524d\U503c\Uff1a390.78V\Uff0c\U5927\U4e8e\U4e0a\U4e0a\U9650\U503c\Uff1a350.0V\",\"name\":\"AB\U7ebf\U7535\U538b\"}"
 
